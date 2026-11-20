@@ -11,10 +11,10 @@ This is my institutional account · Main account: [@AngreeCloud](https://github.
 <br />
 
 <a href="https://github.com/mPedrosaa">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mPedrosaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="mPedrosaa's GitHub stats" />
+  <img height="165" src="./profile-summary-card-output/transparent/3-stats.svg" alt="mPedrosaa's GitHub stats" />
 </a>
 <a href="https://github.com/mPedrosaa">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPedrosaa&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="mPedrosaa's top languages" />
+  <img height="165" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="mPedrosaa's top languages" />
 </a>
 
 </div>
