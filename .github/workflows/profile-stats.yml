@@ -1,0 +1,33 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-stats.yml"
+      - ".github/scripts/generate-stats.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        run: node .github/scripts/generate-stats.mjs
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/languages.svg
+          git diff --cached --quiet || git commit -m "Update profile stats"
+          git push
