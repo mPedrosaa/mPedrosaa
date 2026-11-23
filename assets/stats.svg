@@ -9,9 +9,9 @@
 
   <text x="30" y="40" fill="#006AFF" font-size="22" font-weight="600">Stats</text>
   <text x="30" y="70" fill="#417E87" font-size="14">Contributions (1y)</text>
-  <text x="310" y="70" text-anchor="end" fill="#417E87" font-size="14" font-weight="600">211</text>
+  <text x="310" y="70" text-anchor="end" fill="#417E87" font-size="14" font-weight="600">220</text>
   <text x="30" y="95" fill="#417E87" font-size="14">Pull requests</text>
-  <text x="310" y="95" text-anchor="end" fill="#417E87" font-size="14" font-weight="600">28</text>
+  <text x="310" y="95" text-anchor="end" fill="#417E87" font-size="14" font-weight="600">29</text>
   <text x="30" y="120" fill="#417E87" font-size="14">Issues</text>
   <text x="310" y="120" text-anchor="end" fill="#417E87" font-size="14" font-weight="600">25</text>
   <text x="30" y="145" fill="#417E87" font-size="14">Repositories</text>
