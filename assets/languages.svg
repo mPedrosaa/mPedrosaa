@@ -10,27 +10,27 @@
   <text x="30" y="40" fill="#006AFF" font-size="22" font-weight="600">Languages</text>
   <circle cx="36" cy="65" r="5" fill="#f1e05a" />
   <text x="50" y="70" fill="#417E87" font-size="14">JavaScript</text>
-  <text x="310" y="70" text-anchor="end" fill="#417E87" font-size="14">43.8%</text>
+  <text x="310" y="70" text-anchor="end" fill="#417E87" font-size="14">43.1%</text>
   <rect x="50" y="75" width="260" height="4" rx="2" fill="#d0d7de" fill-opacity="0.35" />
-  <rect x="50" y="75" width="113.89471813328763" height="4" rx="2" fill="#f1e05a" />
+  <rect x="50" y="75" width="111.96722641356372" height="4" rx="2" fill="#f1e05a" />
   <circle cx="36" cy="90" r="5" fill="#e34c26" />
   <text x="50" y="95" fill="#417E87" font-size="14">HTML</text>
-  <text x="310" y="95" text-anchor="end" fill="#417E87" font-size="14">26.0%</text>
+  <text x="310" y="95" text-anchor="end" fill="#417E87" font-size="14">25.6%</text>
   <rect x="50" y="100" width="260" height="4" rx="2" fill="#d0d7de" fill-opacity="0.35" />
-  <rect x="50" y="100" width="67.6905401202242" height="4" rx="2" fill="#e34c26" />
+  <rect x="50" y="100" width="66.54498255861118" height="4" rx="2" fill="#e34c26" />
   <circle cx="36" cy="115" r="5" fill="#663399" />
   <text x="50" y="120" fill="#417E87" font-size="14">CSS</text>
-  <text x="310" y="120" text-anchor="end" fill="#417E87" font-size="14">24.8%</text>
+  <text x="310" y="120" text-anchor="end" fill="#417E87" font-size="14">24.4%</text>
   <rect x="50" y="125" width="260" height="4" rx="2" fill="#d0d7de" fill-opacity="0.35" />
-  <rect x="50" y="125" width="64.48549248122686" height="4" rx="2" fill="#663399" />
+  <rect x="50" y="125" width="63.39417538736108" height="4" rx="2" fill="#663399" />
   <circle cx="36" cy="140" r="5" fill="#b07219" />
   <text x="50" y="145" fill="#417E87" font-size="14">Java</text>
-  <text x="310" y="145" text-anchor="end" fill="#417E87" font-size="14">2.9%</text>
+  <text x="310" y="145" text-anchor="end" fill="#417E87" font-size="14">4.5%</text>
   <rect x="50" y="150" width="260" height="4" rx="2" fill="#d0d7de" fill-opacity="0.35" />
-  <rect x="50" y="150" width="7.428382813144681" height="4" rx="2" fill="#b07219" />
+  <rect x="50" y="150" width="11.702766285389794" height="4" rx="2" fill="#b07219" />
   <circle cx="36" cy="165" r="5" fill="#8b949e" />
   <text x="50" y="170" fill="#417E87" font-size="14">Other</text>
   <text x="310" y="170" text-anchor="end" fill="#417E87" font-size="14">2.5%</text>
   <rect x="50" y="175" width="260" height="4" rx="2" fill="#d0d7de" fill-opacity="0.35" />
-  <rect x="50" y="175" width="6.500866452116619" height="4" rx="2" fill="#8b949e" />
+  <rect x="50" y="175" width="6.390849355074228" height="4" rx="2" fill="#8b949e" />
 </svg>
